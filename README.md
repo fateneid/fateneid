@@ -1,5 +1,5 @@
 <h1 align=left> Hi, I'm Faten! </h1>
-<p>I'm a front-end developer & I'm still learning</p>
+<p>I'm a Software developer & I'm still learning</p>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
